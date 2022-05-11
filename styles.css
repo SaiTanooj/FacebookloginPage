@@ -1,0 +1,75 @@
+h1{
+  color:  #1877f2;
+  font-size: 50px;
+  font-family: Tahoma;
+  position: absolute;
+  left: 180px;
+  top: 150px;
+
+}
+p{
+  font-size: 30px;
+  position: absolute;
+  left: 180px;
+  top: 230px;
+}
+
+   input
+{
+    padding: 15px;
+    width: 300px;
+    border-radius: 5px;
+    font-size: 15px;
+    border: 2px;
+}
+.password{
+  margin-top: 9px;
+}
+.login{
+  position: absolute;
+  left: 750px;
+  top: 180px;
+  border: 1px solid white;
+  background-color: #faf9f9;
+  border-radius: 5px;
+  padding: 10px;
+
+}
+body{
+  background-color: #eaf4f4;
+}
+button{
+  padding: 15px;
+  width: 330px;
+  border-radius: 5px;
+  font-size: 15px;
+  border: 0.5px;
+  margin-top: 10px;
+  background-color: #1877f2;
+  color:  white;
+  margin-bottom: 10px;
+
+}
+.login a{
+  text-decoration: none;
+
+  padding :105px;
+}
+.acct button{
+  margin-top: 20px;
+  width: 185px;
+  background-color: #06d6a0;
+
+}
+a:link{
+  color: #3a86ff;
+}
+a:hover{
+  text-decoration: underline;
+}
+a:active{
+  color:#3a86ff;
+}
+.acct{
+  padding-left: 70px;
+}
